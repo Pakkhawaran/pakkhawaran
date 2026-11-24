@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=006664&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Eugene+(Pakkhawaran)+%F0%9F%91%8B;Passionate+about+Coding+%26+Software+Development+%F0%9F%92%BB;Always+Learning+New+Programming+Languages+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=006664&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ujeen+(Pakkhawaran)+%F0%9F%91%8B;Passionate+about+Coding+%26+Software+Development+%F0%9F%92%BB;Always+Learning+New+Programming+Languages+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views Counter & Badges -->
@@ -19,7 +19,7 @@
 
 ### 👩‍💻 แนะนำตัว (About Me)
 
-สวัสดีค่ะ ดิฉัน **นางสาวภัควรรณ อินทสุวรรณ (ยูจีน)** ปัจจุบันกำลังศึกษาอยู่ชั้นปีที่ 2 **สาขาวิชาเทคโนโลยีสารสนเทศ (Information Technology)** คณะศิลปศาสตร์และวิทยาศาสตร์ **มหาวิทยาลัยเกษตรศาสตร์**[cite: 1]
+สวัสดีค่ะ ดิฉัน **นางสาวภัควรรณ อินทสุวรรณ (ยูจีน / Ujeen)** ปัจจุบันกำลังศึกษาอยู่ชั้นปีที่ 2 **สาขาวิชาเทคโนโลยีสารสนเทศ (Information Technology)** คณะศิลปศาสตร์และวิทยาศาสตร์ **มหาวิทยาลัยเกษตรศาสตร์**[cite: 1]
 
 ดิฉันมีความสนใจอย่างยิ่งในด้าน **การเขียนโค้ดและการพัฒนาซอฟต์แวร์** โดยมุ่งเน้นการสร้างเว็บแอปพลิเคชันและการจัดการฐานข้อมูล พร้อมทั้งเปิดรับและฝึกฝนภาษาโปรแกรมมิงใหม่ๆ อยู่เสมอ เพื่อพัฒนาทักษะสู่การเป็นนักพัฒนาซอฟต์แวร์มืออาชีพค่ะ[cite: 1]
 
